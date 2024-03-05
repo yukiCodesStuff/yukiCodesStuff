@@ -5,7 +5,7 @@
 <h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="[https://www.linkedin.com/in/yuki-janvier/](https://www.linkedin.com/in/yuki-janvier/)">Yuki</a></h1>
 
 <p align="center"> 
-	<a href="[https://leetcode.com/yukijanvier/](https://leetcode.com/yukijanvier/)">
+	<a href="https://leetcode.com/yukijanvier/">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
 	</a>
 	<a href="https://www.linkedin.com/in/yuki-janvier/">
