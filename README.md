@@ -16,7 +16,5 @@
 Welcome to my GitHub! My name is Yuki Janvier and I am a passionate student in Computer Science, with a good deal of experience in web development but an interest in all things code! 
 </p>
 
-<div align="center">
-	[![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiCodesStuff)](https://github.com/anuraghazra/github-readme-stats)
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiCodesStuff)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiCodesStuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiCodesStuff&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
