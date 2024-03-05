@@ -24,6 +24,6 @@ Welcome to my GitHub! My name is Yuki Janvier and I am a passionate student in C
 <code><img height="20" width="" alt="nodejs" src="https://pbs.twimg.com/profile_images/1676657968073564160/DvRo44u5_400x400.jpg"></code> 
  
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=yukiCodesStuff&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiCodesStuff)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="166" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiCodesStuff&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
