@@ -13,7 +13,7 @@
 	</a>
 </p>
 <p>
-Welcome to my GitHub! My name is Yuki Janvier and I am a passionate student in Computer Science, with a good deal of experience in web development but an interest in all things code! 
+Welcome to my GitHub! My name is Yuki Janvier and I am a Software Engineer @ Meta. Feel free to look around, give feedback, raise issues, anything to spice up the GitHub!
 </p>
 
 <div align="center" display="flex" flex-direction="row">
